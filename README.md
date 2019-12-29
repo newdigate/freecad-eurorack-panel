@@ -1,2 +1,5 @@
 # freecad-eurorack-panel
-parametric eurorack panel for freecad
+parametric freecad sketch for eurorack panel
+
+![parameters](images/eurorack-sketch-params.png)
+![sketch](images/eurorack-sketch.png)
