@@ -1,4 +1,4 @@
-# freecad-eurorack-panel
+# freecad eurorack panel
 fully-constrained parametric freecad sketch for eurorack panel
 
 * Select ```"Sketch"```
