@@ -9,3 +9,4 @@ fully-constrained parametric freecad sketch for eurorack panel
 
 ![parameters](images/eurorack-sketch-params.png)
 ![sketch](images/eurorack-sketch.png)
+![freecad screenshot](images/eurorack-sketch-app.png)
