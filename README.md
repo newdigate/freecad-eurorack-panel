@@ -13,11 +13,11 @@ fully-constrained parametric freecad sketch for eurorack panel
 
 ![sketch](images/eurorack-sketch.png)
 
-* length = 121.92 (24 HP)
+* length = 121.92mm (24 HP)
 
 ![24HP](images/eurorack-sketch-24HP.png)
 
-* length = 40.64 (8 HP)
+* length = 40.64mm (8 HP)
 
 ![8HP](images/eurorack-sketch-8HP.png)
 
