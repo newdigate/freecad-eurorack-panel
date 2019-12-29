@@ -1,5 +1,5 @@
 # freecad-eurorack-panel
-parametric freecad sketch for eurorack panel
+fully-constrained parametric freecad sketch for eurorack panel
 
 * Select ```"Sketch"```
 * Select Data tab in the property viewer
